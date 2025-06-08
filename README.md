@@ -4,7 +4,7 @@ steps to open include:
 2.Unblock security for the file (right-click then properties).
 3. must change system locale to arabic (for the arabic characters):
 . control panel
-. region
-. advanced
-.change system locale
-. arabic (iraq)
+-> region
+-> advanced
+->change system locale
+-> arabic (iraq)
